@@ -9,7 +9,7 @@ Python packages in use:
 * scipy.io for loading *.mat files to Python;
 * matplotlib for drawing plots.
 
-Solutions are not included. But all scripts were tested and let you successfully pass assignments as of Feb 24, 2016 (provided you add the code required in each assignment).
+Solutions are not included. But all scripts were tested and let you successfully pass assignments as of Feb 24, 2017 (provided you add the code required in each assignment).
 
 PS The course is really good. 
 
