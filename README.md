@@ -1,6 +1,6 @@
 ### Python version of programming assignments for **"Neural Networks for Machine Learning"** **Coursera** course taught by **Geoffrey Hinton**.
 
-This is basically a line-by-line conversion from Octave/Matlab to Python of four programming assignments from 2013 Coursera course "Neural Networks for Machine Learning" taught by Geoffrey Hinton.
+This is basically a line-by-line conversion from Octave/Matlab to Python3 of four programming assignments from 2013 Coursera course "Neural Networks for Machine Learning" taught by Geoffrey Hinton.
 
 All python functions for one assignment are gathered in one file: assignment1.py, assignment2.py, etc. Data files are identical to original Octave assignments and are in *.mat format.
 
