@@ -1,5 +1,4 @@
-### Hinton-Coursera-Python
-Python version of programming assignments for **"Neural Networks for Machine Learning"** **Coursera** course taught by **Geoffrey Hinton**.
+### Python version of programming assignments for **"Neural Networks for Machine Learning"** **Coursera** course taught by **Geoffrey Hinton**.
 
 This is basically a line-by-line conversion from Octave/Matlab to Python of four programming assignments from 2013 Coursera course "Neural Networks for Machine Learning" taught by Geoffrey Hinton.
 
