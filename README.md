@@ -23,6 +23,8 @@ a3(1e7, 7, 10, 0, 0, false, 4) doesn't pass gradient check. I haven't figured ou
 
 * Assignment 4, last question: haven't tried that.
 
+* Versions: Python 3.4.1, numpy 1.11.0, matplotlib 1.5.1, scipy 0.17.1
+
 
 
 
